@@ -1,0 +1,244 @@
+{
+  "students":[
+    {
+      "id": 1,
+      "name": "Alexis Martinez",
+
+      "floor": 1,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02UVKW3J10-8be8627c12e4-512"
+    },
+    {
+      "id": 2,
+      "name": "Amy Ago",
+
+      "floor": 2,
+      "checkedIn": false,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U0308PETHTR-45d61a8f71f4-512"
+    },
+    {
+      "id": 3,
+      "name": "Emily Raddatz",
+
+      "floor": 3,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02U3DJUAJE-505346e88490-512"
+    },
+    {
+      "id": 4,
+      "name": "Erick Gonzalez",
+
+      "floor": 1,
+      "checkedIn": false,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02U0G0CULV-da7782e821ac-512"
+    },
+    {
+      "id": 5,
+      "name": "Evan Watson",
+
+      "floor": 2,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02UXN7LNNS-f59f18c09568-512"
+    },
+    {
+      "id": 6,
+      "name": "Felix Garcia",
+
+      "floor": 3,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02TQKU62M9-caea4ead6ec7-512"
+    },
+    {
+      "id": 7,
+      "name": "Gabriel Navar",
+
+      "floor": 1,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02Q4C983QA-78a6d475124b-512"
+    },
+    {
+      "id":8,
+      "name": "Hayden Smith",
+
+      "floor": 1,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02LLQWHX6H-5c3f4c228957-512"
+    },
+    {
+      "id":8,
+      "name": "Isabell Ventouris",
+
+      "floor": 2,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02QS8HSRGV-6ace5fd7d419-512"
+    },
+    {
+      "id":9,
+      "name": "Jesse King",
+
+      "floor": 3,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02H2QWQP7X-1b03a5d2c180-512"
+    },
+    {
+      "id":10,
+      "name": "Joey Ha$h<Tag> Parlamenti",
+
+      "floor": 1,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02UG308P2M-80a29f30ed09-512"
+    },
+    {
+      "id":11,
+      "name": "Johannes Dashing-Vargas",
+
+      "floor": 2,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02VDLE7DK2-29a602b19bd8-512"
+    },
+    {
+      "id":12,
+      "name": "John Brown",
+
+      "floor": 3,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02QRDGMUS0-a32a071773be-512"
+    },
+    {
+      "id":13,
+      "name": "Langchao Wu",
+
+      "floor": 1,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U031QUZK4KS-8b580705a398-512"
+    },
+    {
+      "id":14,
+      "name": "Michael Miles",
+
+      "floor": 2,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02V2JJLD39-e80ac566b59b-512"
+    },
+    {
+      "id":15,
+      "name": "Owen Peng",
+
+      "floor": 3,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U030379TQCS-6b049b42e665-512"
+    },
+    {
+      "id":16,
+      "name": "Sakinah Sanna Ishaq",
+
+      "floor": 1,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02SUD481L0-58bbb2a5b776-512"
+    },
+    {
+      "id":17,
+      "name": "Scotty Peterson",
+
+      "floor": 2,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02TJ3D1TD1-aef7c8bcaccf-512"
+    },
+    {
+      "id":18,
+      "name": "Tammy Collinse",
+
+      "floor": 3,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02TVFBK5MK-ec5e5428c024-512"
+    },
+    {
+      "id":19,
+      "name": "Uri Nemirovsky",
+
+      "floor": 1,
+      "checkedIn": true,
+
+      "bio": "Hey! I'm and awesome person learning Software Developement at Flatiron!",
+      "currentPhase": "Phase 2 - React JS",
+      
+      "pictureUrl": "https://ca.slack-edge.com/T02MD9XTF-U02UH8AUYA2-91cd80567430-512"
+    }
+  ]
+}

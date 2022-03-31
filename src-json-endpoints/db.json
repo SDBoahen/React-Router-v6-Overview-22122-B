@@ -1,0 +1,18 @@
+{
+
+    "someKey": { 
+        "aKey" : "someValue" 
+    }
+
+    ,
+
+    "endPointForNames" : [
+        
+        { "name1" : "Sam" }
+    
+        ,
+
+        { "name2" : "Uri" }
+    ]
+
+}
